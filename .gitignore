@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+.env
+*.log
+checkpoint_*.json
+report_*.json
