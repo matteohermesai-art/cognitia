@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "timestamp": "2026-06-25T00:32:08.526260",
+  "config": {
+    "seed": 42,
+    "initial_credits": 100000.0,
+    "total_ticks": 5000,
+    "report_interval": 500,
+    "mode": "fast"
+  },
+  "final_state": {
+    "tick": 5000,
+    "credits": 38296463.415177934,
+    "total_revenue": 38196463.41517793,
+    "burn_rate": 28.7
+  },
+  "analytics": {
+    "org_efficiency": 0.5888353914348884,
+    "innovation_rate": 1.0,
+    "conflict_score": 0.6317677855723011,
+    "market_adaptability": 0.9933698613490015,
+    "capital_efficiency": 0.14997627933258365
+  },
+  "performance": {
+    "elapsed_seconds": 0.4152035713195801,
+    "ticks_per_second": 12042.285628972892
+  }
+}
